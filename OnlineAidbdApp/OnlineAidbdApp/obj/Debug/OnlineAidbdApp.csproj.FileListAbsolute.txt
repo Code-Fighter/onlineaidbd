@@ -1,0 +1,12 @@
+F:\Dot.net\Online aid bd\OnlineAidbdApp\OnlineAidbdApp\bin\Debug\OnlineAidbdApp.exe.config
+F:\Dot.net\Online aid bd\OnlineAidbdApp\OnlineAidbdApp\bin\Debug\OnlineAidbdApp.exe
+F:\Dot.net\Online aid bd\OnlineAidbdApp\OnlineAidbdApp\bin\Debug\OnlineAidbdApp.pdb
+F:\Dot.net\Online aid bd\OnlineAidbdApp\OnlineAidbdApp\obj\Debug\OnlineAidbdApp.Properties.Resources.resources
+F:\Dot.net\Online aid bd\OnlineAidbdApp\OnlineAidbdApp\obj\Debug\OnlineAidbdApp.csproj.GenerateResource.Cache
+F:\Dot.net\Online aid bd\OnlineAidbdApp\OnlineAidbdApp\obj\Debug\OnlineAidbdApp.exe
+F:\Dot.net\Online aid bd\OnlineAidbdApp\OnlineAidbdApp\obj\Debug\OnlineAidbdApp.pdb
+F:\Dot.net\Online aid bd\OnlineAidbdApp\OnlineAidbdApp\obj\Debug\OnlineAidbdApp.csprojResolveAssemblyReference.cache
+F:\Dot.net\Online aid bd\OnlineAidbdApp\OnlineAidbdApp\obj\Debug\OnlineAidbdApp.UI.RegisterNewUser.resources
+F:\Dot.net\Online aid bd\OnlineAidbdApp\OnlineAidbdApp\obj\Debug\OnlineAidbdApp.LoginUI.resources
+F:\Dot.net\Online aid bd\OnlineAidbdApp\OnlineAidbdApp\obj\Debug\OnlineAidbdApp.UI.AdminAreaUI.resources
+F:\Dot.net\Online aid bd\OnlineAidbdApp\OnlineAidbdApp\obj\Debug\OnlineAidbdApp.UI.CourseUI.resources
